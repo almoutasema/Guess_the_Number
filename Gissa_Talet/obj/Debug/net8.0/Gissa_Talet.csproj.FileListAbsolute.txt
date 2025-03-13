@@ -1,0 +1,14 @@
+C:\Users\motas\OneDrive\Desktop\c#.net projects\Gissa_Talet\Gissa_Talet\bin\Debug\net8.0\Gissa_Talet.exe
+C:\Users\motas\OneDrive\Desktop\c#.net projects\Gissa_Talet\Gissa_Talet\bin\Debug\net8.0\Gissa_Talet.deps.json
+C:\Users\motas\OneDrive\Desktop\c#.net projects\Gissa_Talet\Gissa_Talet\bin\Debug\net8.0\Gissa_Talet.runtimeconfig.json
+C:\Users\motas\OneDrive\Desktop\c#.net projects\Gissa_Talet\Gissa_Talet\bin\Debug\net8.0\Gissa_Talet.dll
+C:\Users\motas\OneDrive\Desktop\c#.net projects\Gissa_Talet\Gissa_Talet\bin\Debug\net8.0\Gissa_Talet.pdb
+C:\Users\motas\OneDrive\Desktop\c#.net projects\Gissa_Talet\Gissa_Talet\obj\Debug\net8.0\Gissa_Talet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\motas\OneDrive\Desktop\c#.net projects\Gissa_Talet\Gissa_Talet\obj\Debug\net8.0\Gissa_Talet.AssemblyInfoInputs.cache
+C:\Users\motas\OneDrive\Desktop\c#.net projects\Gissa_Talet\Gissa_Talet\obj\Debug\net8.0\Gissa_Talet.AssemblyInfo.cs
+C:\Users\motas\OneDrive\Desktop\c#.net projects\Gissa_Talet\Gissa_Talet\obj\Debug\net8.0\Gissa_Talet.csproj.CoreCompileInputs.cache
+C:\Users\motas\OneDrive\Desktop\c#.net projects\Gissa_Talet\Gissa_Talet\obj\Debug\net8.0\Gissa_Talet.dll
+C:\Users\motas\OneDrive\Desktop\c#.net projects\Gissa_Talet\Gissa_Talet\obj\Debug\net8.0\refint\Gissa_Talet.dll
+C:\Users\motas\OneDrive\Desktop\c#.net projects\Gissa_Talet\Gissa_Talet\obj\Debug\net8.0\Gissa_Talet.pdb
+C:\Users\motas\OneDrive\Desktop\c#.net projects\Gissa_Talet\Gissa_Talet\obj\Debug\net8.0\Gissa_Talet.genruntimeconfig.cache
+C:\Users\motas\OneDrive\Desktop\c#.net projects\Gissa_Talet\Gissa_Talet\obj\Debug\net8.0\ref\Gissa_Talet.dll
